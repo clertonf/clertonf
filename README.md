@@ -70,9 +70,9 @@ And finally, I take a phrase with me from an early age, which is:
 <!-- Your github readme stats: https://github.com/anuraghazra/github-readme-stats -->
 <span>
   <img width="50%" align="left" alt="Clerton Filho's github stats." 
-       src="https://github-readme-stats.vercel.app/api?username=clertonf&show_icons=true&hide_border=true&theme=radical" />
+       src="https://github-readme-stats.vercel.app/api?username=clertonf&show_icons=true&hide_border=true&theme=dracula" />
   <img width="45%" align="right"  
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=clertonf&layout=compact" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=clertonf&layout=compact&theme=dracula" />
        
 </span>
 
