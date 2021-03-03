@@ -71,7 +71,7 @@ And finally, I take a phrase with me from an early age, which is:
 <span>
   <img width="45%" align="left" alt="Clerton Filho's github stats." 
        src="https://github-readme-stats.vercel.app/api?username=clertonf&show_icons=true&hide_border=true&theme=dracula" />
-  <img width="42%" align="right"  
+  <img width="45%" align="right"  
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=clertonf&layout=compact" />
        
 </span>
