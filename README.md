@@ -6,13 +6,13 @@
   <a href="www.linkedin.com/in/clerton-filho" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  
   </a>
-  <a href="mailto:clerton.filho7@gmail.com" target="_blank" >
+  <a href="mailto:clerton.filho7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
   </a>
-  <a href="https://t.me/clertonf" target="_blank" >
+  <a href="https://t.me/clertonf" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&Color=1ca0f1&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/clerton_filho/" target="_blank" >
+  <a href="https://www.instagram.com/clerton_filho/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   
