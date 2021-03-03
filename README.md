@@ -3,7 +3,7 @@
   Hey, I'm Clerton Filho, a web developer and computer network technician 🤓️ from Fortaleza/CE - Brazil.
 </h1>
 <p align="center">
-  <a href="linkedin.com/in/clerton-filho">
+  <a href="www.linkedin.com/in/clerton-filho">
     <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  
   </a>
   <a href="mailto:clerton.filho7@gmail.com">
