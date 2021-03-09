@@ -34,8 +34,7 @@ And finally, I take a phrase with me from an early age, which is:
  
 </p>
 
-</br>
-</br>
+
 <p align="center"> <samp>
 <!-- 👀 <strong>I’m currently looking for a job!</strong><br> -->
 </p>
