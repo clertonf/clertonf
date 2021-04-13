@@ -4,7 +4,6 @@
 
 
 
-### Languages and Tools:
 
 <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
 
