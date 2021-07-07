@@ -26,13 +26,13 @@
   <strong> 
   </br>
   </br>
+  <i>
 "It is by doing that you learn to do what you must learn to do."
 
 Aristotle
+  </i>
     </strong>
 </p>
-
-
 
 
 
@@ -49,7 +49,7 @@ Aristotle
 <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
 
 <!-- Skillsets -->
-<!-- JS, HTML, CSS, Node.js, express, React, Tensor Flow, .NET, SQLite, Firebase, Herooku, Algorithmia, Webpack, Bootstrap, Bash, ESLint, Matlab, C, C++... -->
+
 
 <p align="center"> 
   <span>
