@@ -7,7 +7,7 @@
 <p align="center">
 
 
-  <a href="www.linkedin.com/in/clerton-filho" target="_blank">
+  <a href="https://www.linkedin.com/in/clerton-filho/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  
   </a>
     <a href="mailto:clerton.filho7@gmail.com">
