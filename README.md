@@ -5,9 +5,9 @@
 
 
 <span>
-  <img width="50%" align="center" alt="Clerton Filho's github stats." 
+  <img width="50%" maxHeight="250" align="center" alt="Clerton Filho's github stats."  
        src="https://github-readme-stats.vercel.app/api?username=clertonf&show_icons=true&hide_border=true&theme=dracula" />
-  <img width="42%" align="right"  
+  <img width="42%"  maxHeight="250" align="right"  
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=clertonf&layout=compact&theme=dracula" />
        
 </span>
